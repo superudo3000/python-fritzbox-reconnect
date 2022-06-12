@@ -1,4 +1,4 @@
-#Restarting your fritzbox with a python script
+# Restarting your fritzbox with a python script
 
 This is usually realized with tools like Netcat_ or cURL_.  However, when
 developing in Python_ anyway, it is more convenient to integrate a native
@@ -32,6 +32,12 @@ Original post from:
 Tested with:
     Python 3.8.6 on macOS 12.3.1 and FRITZ!OS: 07.29
 
-:Copyright: 2008-2015 Jochen Kupperschmidt -> fixed: 12-Jun-2022 by SuperUdo3000 =)
-:Date: 10-Jun-2015 (original release: 04-Apr-2008)
-:License: MIT
+Copyright:
+	2008-2015 Jochen Kupperschmidt
+	Fix by SuperUdo3000 =)
+
+Date:
+	12-Jun-2022 (original release: 04-Apr-2008)
+	
+License:
+	MIT
